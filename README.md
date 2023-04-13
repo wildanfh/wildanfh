@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&pause=1000&color=F77313&center=true&vCenter=true&width=435&lines=Hello!;I+am+Wildan;Nice+to+meet+you.." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&pause=1000&color=F77313&center=true&vCenter=true&width=435&lines=Hello!;I+am+Wildan;Nice+to+meet+you.." alt="Typing SVG" /></a></p>
 
 
 ### Welcome Here!
