@@ -10,5 +10,6 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 ### Let's explore some personal details.
 
 - I’m currently working with [Laravel](https://laravel.com), [React](https://react.dev/), [Tailwindcss](https://tailwindcss.com/).
--I enjoy discovering new technology stacks and creating innovative projects.
+- I enjoy discovering new technology stacks and creating innovative projects.
 - Most of my work is available for viewing on [Github](https://github.com/wildanfh).
+- I am [here](https://github.com/wildanfh/wildanfh/issues) to assist you with any questions or concerns you may have
