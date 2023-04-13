@@ -5,7 +5,7 @@
 
 My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, Indonesia. I have a strong desire to learn and keep up with the latest advancements in various technologies and domains. I enjoy exploring new tools and using them to solve real-world problems, and I like to guide and mentor others. Currently, my primary focus is on developing web applications that utilize both front-end and back-end technologies.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p>
+<img align="right" width="500" src="https://img.freepik.com/premium-vector/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.jpg" alt="Coding">
 
 ### Let's explore some personal details.
 
