@@ -15,3 +15,20 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 - I am [here](https://github.com/wildanfh/wildanfh/issues) to assist you with any questions or concerns you may have
 - You can contact me at any time via email: wildanf2005@gmail.com
 - Get [CV](https://github.com/wildanfh/wildanfh/blob/main/cv.pdf)
+
+###  Let's connect
+
+<p align="left">
+<!-- <a href="https://www.linkedin.com/in//" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_wldnf_">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a> -->
+<a href="https://api.whatsapp.com/send?phone=085802764783">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</a>
+<a href="mailto:wildanf2005@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p> 
