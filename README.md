@@ -13,3 +13,5 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 - I enjoy discovering new technology stacks and creating innovative projects.
 - Most of my work is available for viewing on [Github](https://github.com/wildanfh).
 - I am [here](https://github.com/wildanfh/wildanfh/issues) to assist you with any questions or concerns you may have
+- You can contact me at any time via email: wildanf2005@gmail.com
+- Get [CV](https://github.com/wildanfh/wildanfh/blob/main/cv.pdf)
