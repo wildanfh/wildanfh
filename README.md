@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&pause=1000&color=F77313&center=true&vCenter=true&width=435&lines=Hello!;I+am+Wildan;Nice+to+meet+you.." alt="Typing SVG" /></a></p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&pause=1000&color=F77313&center=true&vCenter=true&width=435&lines=Hello!;I+am+Wildan;Nice+to+meet+you.." alt="Typing SVG" /></a></h1>
 
 
 ### Welcome Here!
@@ -45,3 +45,24 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanfh&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 
 </p>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b> Skills </b></summary> 
+  <br>	
+	
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-F9322C?style=flat-square&logo=Laravel&logoColor=white)](https://laravel.com/)
+[![PHP Badge](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React Badge](https://img.shields.io/badge/-React-087EA4?style=flat-square&logo=React&logoColor=white)](https://react.dev/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=flat-square&logo=TailwindCSS&logoColor=white)](https://tailwindcss.com/)
+[![JSON Badge](https://img.shields.io/badge/-JSON-723FFF?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
+    </br>
+</details>
