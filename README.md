@@ -40,7 +40,7 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfh&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfh&hide_progress=true&bg_color=333&text_color=ddd&border_color=555" width="45%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfh&hide_progress=true&bg_color=333&text_color=ddd&border_color=555" width="45%" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanfh&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 
@@ -48,7 +48,7 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 
 ### Projects and Dev Stuffs:
 
-<details>
+<details width="180em">
   <summary><b> Skills </b></summary> 
   <br>	
 	
