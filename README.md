@@ -98,3 +98,9 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 
 </p>
 </details>
+
+<div align="center">
+
+### If you find a repository useful, consider giving it a star to show your appreciation to the developer ❤️.
+
+</div>
