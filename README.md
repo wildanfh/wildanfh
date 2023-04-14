@@ -68,3 +68,33 @@ My name is Wildan Firdaus, and I'm an aspiring web developer based in Salatiga, 
 [![JSON Badge](https://img.shields.io/badge/-JSON-723FFF?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
     </br>
 </details>
+
+<details>
+  <summary><b>My Projects</b></summary>
+<p align="center">
+<a href="https://github.com/wildanfh/quran-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=quran-app&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/wildanfh/fundraising">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=fundraising&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/wildanfh/resto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=resto&hide_border=true&theme=github_dark" />
+</a>
+	
+<a href="https://github.com/wildanfh/contact-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=contact-app&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/wildanfh/xoxo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=xoxo&hide_border=true&theme=github_dark" />
+</a>
+	
+<a href="https://github.com/wildanfh/database-siswa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanfh&repo=database-siswa&hide_border=true&theme=github_dark" />
+</a>
+
+</p>
+</details>
